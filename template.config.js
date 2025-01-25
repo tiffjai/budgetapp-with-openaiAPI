@@ -1,4 +1,1 @@
-module.exports = {
-  placeholderName: 'budgetappwithopenaiAPI',
-  templateDir: './template',
-}
+<content_of_template.config.js>
